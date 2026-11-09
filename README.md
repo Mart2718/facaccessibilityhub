@@ -29,3 +29,18 @@ No backend, account, AI API, or build tooling is required. External resource lin
 ## Pilot V27: Screen reader testing
 
 Added a beginner-friendly 10-minute screen-reader guide with Windows NVDA, built-in Narrator, and macOS VoiceOver instructions. Cross-linked from textbook, publisher, equation, app, and webpage guides; added to homepage, guide picker, and search. This is an initial faculty check, not a full assistive-technology audit.
+
+
+## Version 28 — Just-in-time screen reader help
+
+The online textbook quick guide links directly to the beginner screen reader walkthrough in the step that asks faculty to use one. Additional quick guides that mention screen reader testing now provide a contextual beginner-guide link.
+
+
+## Pilot V29 update
+- Added a third-party YouTube decision guide (Check → Video & captions → I don't own the YouTube video).
+- Distinguishes replacing an inaccessible video with an independently accessible lesson from retaining it with an institutionally reviewed alternative.
+- Cross-links caption evaluation, academic-equivalence guidance, and the resolution checklist.
+- Searchable using phrases such as “third-party video”, “video I don't own”, “can't edit captions”, and “accessible alternative”.
+- No third-party video transcription/copyright circumvention workflow has been added.
+
+Institutional accessibility staff should review any proposed use of a nonconforming video with an alternate version before faculty rely on it.
