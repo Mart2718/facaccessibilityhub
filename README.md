@@ -25,3 +25,7 @@ You can also drag the unzipped folder into Netlify's manual deploy interface; Gi
 This is a faculty pilot and research aid, **not** an official institutional policy or accessibility certification. Automated tests and AI-generated remediation require human verification. Before broad release, test the live website with keyboard and screen readers and obtain appropriate campus accessibility review.
 
 No backend, account, AI API, or build tooling is required. External resource links require internet access.
+
+## Pilot V27: Screen reader testing
+
+Added a beginner-friendly 10-minute screen-reader guide with Windows NVDA, built-in Narrator, and macOS VoiceOver instructions. Cross-linked from textbook, publisher, equation, app, and webpage guides; added to homepage, guide picker, and search. This is an initial faculty check, not a full assistive-technology audit.
